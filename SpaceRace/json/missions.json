@@ -1,0 +1,58 @@
+[
+
+   {
+		"name":"", 
+		"url":"largecrew",
+		"left":"Large Manned Mission",
+		"right":"Mission",
+		"middleleft":"Reward: 3",
+		"middleright":"",
+		"description":"A mission requiring large manned craft.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:The_Apollo_12_Prime_Crew_-_GPN-2000-001165.jpg"
+	},
+   {
+		"name":"", 
+		"url":"smallmanned",
+		"left":"Small Manned Mission",
+		"right":"Mission",
+		"middleleft":"Reward: 2",
+		"middleright":"",
+		"description":"A mission requiring a small manned craft.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Alan_Shepard#mediaviewer/File:Alan_Shepard_-_GPN-2000-001005.jpg"
+	},
+   {
+		"name":"", 
+		"url":"veneraLander",
+		"left":"Large Science Mission",
+		"right":"Mission",
+		"middleleft":"Reward: 2",
+		"middleright":"",
+		"description":"A science mission requiring large science craft.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Alan_Shepard#mediaviewer/File:Alan_Shepard_-_GPN-2000-001005.jpg"
+	},
+   {
+		"name":"", 
+		"url":"explorer",
+		"left":"Small Science Mission",
+		"right":"Mission",
+		"middleleft":"Reward: 1",
+		"middleright":"",
+		"description":"A science mission requiring small science craft.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Explorer_32.jpg"
+	},
+   {
+		"name":"", 
+		"url":"engineers",
+		"left":"Any Mission",
+		"right":"Mission",
+		"middleleft":"Reward: 1 (Science), 2 (Manned)",
+		"middleright":"",
+		"description":"Any craft type, science or manned will complete this card.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Engineers_Working_apollo_11.png"
+	}
+]

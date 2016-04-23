@@ -1,0 +1,68 @@
+[
+    {
+		"name":"", 
+		"url":"storm",
+		"left":"Storm",
+		"right":"Abort Cards",
+		"middleleft":"Roll: 1-",
+		"middleright":"",
+		"description":"You cannot launch the rocket, treat this as a normal abort, but take an additional public outrage card for delaying the rocket launch.",
+		"credit":"Greg Lundeen, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Storm#mediaviewer/File:Chaparral_Supercell_2.JPG"
+	},
+    {
+		"name":"", 
+		"url":"wind",
+		"left":"High Winds",
+		"right":"Abort Cards",
+		"middleleft":"Roll: 3-",
+		"middleright":"",
+		"description":"For every 5 engine, -1 to engine.  Rockets with less than 5 engine are not impacted.",
+		"credit":"NOAA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Wind_speed_and_direction_instrument_-_NOAA.jpg"
+	},
+    {
+		"name":"", 
+		"url":"boat",
+		"left":"Boat in Range",
+		"right":"Abort Cards",
+		"middleleft":"Roll: 2-",
+		"middleright":"",
+		"description":"Take 2 public outrage cards for risking lives on the ground.",
+		"credit":"Traumrune, CC-BY-SA 3.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Labenne-plage_02.JPG"
+	},
+    {
+		"name":"", 
+		"url":"engineissues",
+		"left":"Rocket Issues",
+		"right":"Abort Cards",
+		"middleleft":"Roll: 2-",
+		"middleright":"",
+		"description":"Your mission success die is decreased by 2. (this also counts for rerolls)",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Duke,_Lovell_and_Haise_at_the_Apollo_11_Capcom,_Johnson_Space_Center,_Houston,_Texas_-_19690720.jpg"
+	},
+    {
+		"name":"", 
+		"url":"computers",
+		"left":"Computer Issues",
+		"right":"Abort Cards",
+		"middleleft":"Roll: 2-",
+		"middleright":"",
+		"description":"Navigation is off, you are forced to go for the highest numbered mission/destination.  If you can't complete it, it is a failure.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://upload.wikimedia.org/wikipedia/commons/b/b9/NASAComputerRoom7090.NARA.jpg"
+	},
+    {
+		"name":"", 
+		"url":"allgo",
+		"left":"All Systems Go",
+		"right":"Abort Cards",
+		"middleleft":"--",
+		"middleright":"",
+		"description":"Do not roll the abort die, all systems go.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Ap4-s67-50531.jpg"
+	}
+]

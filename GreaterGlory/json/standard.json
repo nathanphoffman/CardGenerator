@@ -1,0 +1,309 @@
+{"standard":[
+   {
+		"name":"DesertI", 
+		"type":"standard",
+		"url":"desert",
+		"left":"Desert Oasis (3/2)",
+		"right":"Map",
+		"stats":"&#32; Civ: 4 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / 3 ",
+		"description":"(Always) There is an oasis here, heal one at the end of your turn.<br/><br/>(Day) When you travel away from this desert card, draw one less map card.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"DesertII", 
+		"type":"standard",
+		"url":"desert",
+		"left":"Desert Dunes (4/2)",
+		"right":"Map",
+		"stats":"&#32; Civ: 8 / 3 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 6 / -- ",
+		"description":"(Always) There are high sand dunes here, -2 sprint.<br/><br/>(Day) When you travel away from this desert card, draw one less map card.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"DesertIII", 
+		"type":"standard",
+		"url":"desert",
+		"left":"Desert Sands (4/2)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Day) You see what appears to be a buried treasure, reroll the object roll if it is not a treasure.<br/><br/>(Day) When you travel away from this desert card, draw one less map card.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+
+   {
+		"name":"MountainI", 
+		"type":"standard",
+		"url":"mountains",
+		"left":"Mountain Summit (5/6)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Due to the extreme cold you lose 2 hp at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"MountainII", 
+		"type":"standard",
+		"url":"mountains",
+		"left":"Mountain Fortress (4/5)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Due to the extreme cold you lose 2 hp at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"MountainIII", 
+		"type":"standard",
+		"url":"mountains",
+		"left":"Mountain Cave (3/4)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Due to the extreme cold you lose 2 hp at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"SwampI", 
+		"type":"standard",
+		"url":"swamp",
+		"left":"Swamp Pond (4/5)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"SwampII", 
+		"type":"standard",
+		"url":"swamp",
+		"left":"Swamp Flats (3/4)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"SwampIII", 
+		"type":"standard",
+		"url":"swamp",
+		"left":"Swamp Marsh (4/5)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"PlainsI", 
+		"type":"standard",
+		"url":"plains",
+		"left":"Grassland Farm",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"PlainsII", 
+		"type":"standard",
+		"url":"plains",
+		"left":"Grassland City",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"PlainsIII", 
+		"type":"standard",
+		"url":"plains",
+		"left":"Grassland Road",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, CC0, Public Domain",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"DungeonI", 
+		"type":"standard",
+		"url":"dungeon2",
+		"left":"Dungeon Lair (3/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP&Myckel, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image",
+		"creditURL2":"http://opengameart.org/content/opendungeons-floating-skull#"
+	},
+   {
+		"name":"DungeonII", 
+		"type":"standard",
+		"url":"dungeon2",
+		"left":"Dungeon Cave (3/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP&Myckel, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image",
+		"creditURL2":"http://opengameart.org/content/opendungeons-floating-skull#"
+	},
+   {
+		"name":"DungeonIII", 
+		"type":"standard",
+		"url":"dungeon2",
+		"left":"Dungeon Tomb (3/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP&Myckel, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image",
+		"creditURL2":"http://opengameart.org/content/opendungeons-floating-skull#"
+	},
+
+   {
+		"name":"EpicDungeonI", 
+		"type":"standard",
+		"url":"dungeon5",
+		"left":"Epic Dungeon Lair (3/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP&Myckel, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image",
+		"creditURL2":"http://opengameart.org/content/opendungeons-floating-skull#"
+	},
+   {
+		"name":"EpicDungeonII", 
+		"type":"standard",
+		"url":"dungeon5",
+		"left":"Epic Dungeon Cave (3/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP&Myckel, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image",
+		"creditURL2":"http://opengameart.org/content/opendungeons-floating-skull#"
+	},
+   {
+		"name":"EpicDungeonIII", 
+		"type":"standard",
+		"url":"dungeon5",
+		"left":"Epic Dungeon Tomb (3/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP&Myckel, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image",
+		"creditURL2":"http://opengameart.org/content/opendungeons-floating-skull#"
+	},
+
+   {
+		"name":"CityI", 
+		"type":"standard",
+		"url":"city",
+		"left":"River City (2/2)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image"
+	},
+   {
+		"name":"CityII", 
+		"type":"standard",
+		"url":"city",
+		"left":"River Town (2/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image"
+	},
+   {
+		"name":"CityIII", 
+		"type":"standard",
+		"url":"city",
+		"left":"River Forest (3/4)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image"
+	},
+   {
+		"name":"ShoreI", 
+		"type":"standard",
+		"url":"shore",
+		"left":"Shore I",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image"
+	},
+   {
+		"name":"ShoreII", 
+		"type":"standard",
+		"url":"shore",
+		"left":"Shore II",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image"
+	},
+   {
+		"name":"ShoreIII", 
+		"type":"standard",
+		"url":"shore",
+		"left":"Shore III",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"JAP, GPL2 & 3, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/fortress-backgroundstoryboard-image"
+	},
+   {
+		"name":"ForestI", 
+		"type":"standard",
+		"url":"forest",
+		"left":"Jungle Clearing (2/3)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"Ramtam, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/forest-background-art"
+	},
+   {
+		"name":"ForestII", 
+		"type":"standard",
+		"url":"forest",
+		"left":"Jungle Village (3/4)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"Ramtam, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/forest-background-art"
+	},
+   {
+		"name":"ForestIII", 
+		"type":"standard",
+		"url":"forest",
+		"left":"Jungle Wilderness (4/5)",
+		"right":"Map",
+		"stats":"&#32; Civ: 7 / 5 &nbsp;&nbsp; Mon: 4 / -- &nbsp;&nbsp; Obj: 7 / -- ",
+		"description":"(Night) Heal +3 at the end of your turn.<br/><br/>In the midst of the dry ash and sand you see a pool of water before you.  A cool breeze blows from its surface.  Looking down from the peak of a dune, you feel venerable.",
+		"credit":"Ramtam, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/forest-background-art"
+	}
+
+]}

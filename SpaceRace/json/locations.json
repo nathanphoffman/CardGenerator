@@ -1,0 +1,58 @@
+[
+
+   {
+		"name":"", 
+		"url":"venus",
+		"left":"Venus",
+		"right":"Destination",
+		"middleleft":"Difficulty: 5",
+		"middleright":"",
+		"description":"If you draw a manned mission, discard Venus and that card, manned missions can't be launched here.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Venus#mediaviewer/File:Venus_globe.jpg"
+	},
+   {
+		"name":"", 
+		"url":"mars",
+		"left":"Mars",
+		"right":"Destination",
+		"middleleft":"Difficulty: 4",
+		"middleright":"",
+		"description":"When landing on mars, -1 to the mission success die.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Mars#mediaviewer/File:Mars_Valles_Marineris.jpeg"
+	},
+   {
+		"name":"", 
+		"url":"moon",
+		"left":"Moon",
+		"right":"Destination",
+		"middleleft":"Difficulty: 3",
+		"middleright":"",
+		"description":"For all manned missions get +2 score.",
+		"credit":"????, CC-BY-SA 3.0 Unported",
+		"creditURL":"http://commons.wikimedia.org/wiki/Moon#mediaviewer/File:The_phase_of_Moon.jpg"
+	},
+   {
+		"name":"", 
+		"url":"orbit",
+		"left":"Orbit",
+		"right":"Destination",
+		"middleleft":"Difficulty: 2",
+		"middleright":"",
+		"description":"Get +2 score for science missions.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Thunderstorms_over_the_Pacific_seen_from_Earth_orbit_on_STS-64.jpg"
+	},
+   {
+		"name":"", 
+		"url":"suborbit",
+		"left":"Sub-Orbital",
+		"right":"Destination",
+		"middleleft":"Difficulty: 1",
+		"middleright":"",
+		"description":"If you play a card that has within 1 or less engine of the engine requirement, get +2 score.",
+		"credit":"Eric Brechemier, CC-2.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:The_Alps_framed_in_a_Plane%27s_Window_(5746455134).jpg"
+	}
+]

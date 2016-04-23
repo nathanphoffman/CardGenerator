@@ -1,0 +1,71 @@
+[
+
+
+   {
+		"name":"", 
+		"url":"shutdown",
+		"left":"Temporary Shutdown",
+		"right":"Outrage",
+		"middleleft":"",
+		"middleright":"",
+		"description":"At the beginning of your turn, roll a die, on a 2 or below you cannot do anything this turn, you can still discard public outrage cards and draw.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://c0000555.cdn1.cloudfiles.rackspacecloud.com/Historic_MCC_Full2.JPG"
+	},
+   {
+		"name":"", 
+		"url":"trial",
+		"left":"On Trial",
+		"right":"Outrage",
+		"middleleft":"",
+		"middleright":"",
+		"description":"Take one additional public outrage card whenever you draw a public outrage card or cards during a turn.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:NASA_Administration_Before_the_Senate_Regarding_Apollo_1_-_GPN-2002-000084.jpg"
+	},
+   {
+		"name":"", 
+		"url":"budgetcuts",
+		"left":"Budget Cuts",
+		"right":"Outrage",
+		"middleleft":"",
+		"middleright":"",
+		"description":"Your maximum hand is reduced by one card.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Category:White_House_in_1961#mediaviewer/File:First_Lady_and_Daughter_depart_White_House_for_Glen_Ora._President_Kennedy,_holding_Caroline_Kennedy,_First_Lady..._-_NARA_-_194195.jpg"
+	},
+   {
+		"name":"", 
+		"url":"apollo1",
+		"left":"Quality Control",
+		"right":"Outrage",
+		"middleleft":"",
+		"middleright":"",
+		"description":"Pay 1 extra card per launch so that quality control inspectors can make sure the rocket is good to fly.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Apollo_1%27s_Command_Module_-_GPN-2003-00057.jpg"
+	},
+   {
+		"name":"", 
+		"url":"oversight",
+		"left":"Oversight",
+		"right":"Outrage",
+		"middleleft":"",
+		"middleright":"",
+		"description":"Roll 2 die at the beginning of your turn, you may not go to either target # shown on the die.  If the target does not exist, then ignore that die roll.",
+		"credit":"Library of Congress, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Category:Lyndon_B._Johnson_before_1961#mediaviewer/File:William_G._Stroud_displays_TIROS-I_circuitry_ppmsca.03126.jpg"
+	},
+   {
+		"name":"", 
+		"url":"shrink",
+		"left":"Psychologist",
+		"right":"Outrage",
+		"middleleft":"",
+		"middleright":"",
+		"description":"If you have one psychologist card, your character cannot be used.  If you collect 2, discard your active character and no new characters can be played.",
+		"credit":"Flickr Commons, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Helen_Lois_Koch_(1885-1977)_(5493916915).jpg"
+	}
+
+]

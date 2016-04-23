@@ -1,0 +1,29 @@
+
+[
+  "commands":[
+    {
+      "name":"look", 
+      "noMatch":"You do not see anything.",
+      "defaultMap":true
+    }, 
+    {
+      "name":"smell", 
+      "noMatch":"You do not smell anything"
+    }, 
+    {
+      "name":"listen", 
+      "noMatch":"You do not hear anything."
+    }
+  ],
+
+  "map":[
+    {
+      "x":1,
+      "y":2,
+      "smell":"Die()"
+    }
+  ]
+
+
+]
+

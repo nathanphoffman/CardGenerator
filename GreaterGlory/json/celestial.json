@@ -1,0 +1,10 @@
+{"celestial":[
+    {
+		"name":"Currency Exchange", 
+		"type":"special",
+		"url":"coinexchange",
+		"gold":1,
+		"description":"Sacrificing this card for gold will give you 2 GOLD.",
+		"credit":"OGA, Ravenmore, CC-BY-3.0"
+	}
+]}

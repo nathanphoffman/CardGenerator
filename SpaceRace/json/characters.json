@@ -1,0 +1,91 @@
+[  
+  
+  {
+		"name":"", 
+		"url":"jfk",
+		"left":"<img width='25' src='img/us.gif'/>John F. Kennedy (2)",
+		"right":"Character",
+		"middleleft":"Ask what you can do",
+		"middleright":"",
+		"description":"...for your country<br/>At the end of your turn, you may discard a public outrage card of your choosing. ",
+		"credit":"National Archives, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/John_F._Kennedy#mediaviewer/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg"
+	},
+   {
+		"name":"", 
+		"url":"genekranz",
+		"left":"Gene Kranz (2)",
+		"right":"Character",
+		"middleleft":"We are forever accountable",
+		"middleright":"",
+		"description":"Discard 1 card to get 1 reroll on the mission success die.  NOTE: If something else grants a reroll, this does not stack.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:KranzConsole.jpg"
+	},
+   {
+		"name":"", 
+		"url":"yurigargarin",
+		"left":"Yuri Gagarin (2)",
+		"right":"Character",
+		"middleleft":"Let's go!",
+		"middleright":"",
+		"description":"Abort cards have no impact on you.",
+		"credit":"Fyodor Nosov, CC-BY-SA 3.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/%D0%AE%D1%80%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD#mediaviewer/File:Gagarin_observes_air_parade_Air_Base_near_Cairo_Egypt_1962.jpg"
+	},
+   {
+		"name":"", 
+		"url":"neilarmstrong",
+		"left":"Neil Armstrong (2)",
+		"right":"Character",
+		"middleleft":"That's one small step for man",
+		"middleright":"",
+		"description":"You can reroll the success die on all manned missions, you must still roll the abort roll.  Does not stack with additional rerolls.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Neil_Armstrong_pose.jpg"
+	},
+   {
+		"name":"", 
+		"url":"sergei",
+		"left":"Sergei Korolev (2)",
+		"right":"Character",
+		"middleleft":"We keep our plans secret",
+		"middleright":"",
+		"description":"Do not reveal cards before launching, but once you launch or abort, you must reveal your cards.",
+		"credit":"Russian Archive, Public Domain",
+		"creditURL":"https://en.wikipedia.org/wiki/Sergei_Korolev#mediaviewer/File:Sergey_Korolyov.jpg"
+	},
+   {
+		"name":"", 
+		"url":"vonbraun",
+		"left":"Wernher von Braun (2)",
+		"right":"Character",
+		"middleleft":"Your tax dollar will go further",
+		"middleright":"",
+		"description":"-1 to all rocket costs for your country, if the cost is 1, then it is free, does not impact foreign fees. ",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://en.wikipedia.org/wiki/Wernher_von_Braun#mediaviewer/File:Wernher_von_Braun.jpg"
+	},
+   {
+		"name":"", 
+		"url":"nikita",
+		"left":"<img width='25' src='img/ussr.gif'/>Nikita Khrushchev (2)",
+		"right":"Character",
+		"middleleft":"We may have beaten you to space",
+		"middleright":"",
+		"description":"..but you beat us in sausage making.<br/>  If the nearest US player on your right launches a mission that fails, they draw an extra outrage card and you lose one. ",
+		"credit":"Bundesarchiv, Heinz J., CC-BY-SA 3.0",
+		"creditURL":"http://en.wikipedia.org/wiki/Nikita_Khrushchev"
+	},
+   {
+		"name":"", 
+		"url":"valentin",
+		"left":"Valentin Glushko (2)",
+		"right":"Character",
+		"middleleft":"",
+		"middleright":"",
+		"description":"At the end of the round, you may send another player's character to The Gulag, they discard the character, you discard 1 additional card.",
+		"credit":"?? may be copyright",
+		"creditURL":"http://en.wikipedia.org/wiki/Nikita_Khrushchev"
+	}
+  ]

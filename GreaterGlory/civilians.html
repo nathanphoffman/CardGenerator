@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+	<meta content="utf-8" http-equiv="encoding">
+
+	<!-- Include External Libraries -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="js/html2canvas.js"></script>
+	<!--<script src="js/canvas2image.js"></script>
+	<script src="js/base64.js"></script>-->
+	
+	<!-- Boot strap styles for resizing and mobile support -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	
+	<!-- Custom styles -->
+	<link rel="stylesheet" type="text/css" href="css/civilians.css">
+	
+	<!-- Custom JS -->
+	<!--<script src="js/calculator.js"></script>-->
+	
+	<!-- Google fonts, smooth -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Bitter' rel='stylesheet' type='text/css'>
+
+	<script>
+	
+
+	
+	$(document).ready(function () {
+	
+	// Load Standard
+	$.getJSON("json/civilians.json", function(json) {
+		for(var i = 0; i < json.length; i++)
+		{
+			addCard(json[i], 'civilians');
+		}
+	});
+	
+
+	function loadImage(element,type)
+	{
+		html2canvas(element, {
+		  onrendered: function(canvas) {
+			canvas.id = element[0].id;
+			canvas.className = "leftShift";
+			
+			var context = canvas.getContext('2d');
+			context.translate(canvas.width / 2, canvas.height / 2);
+			context.scale(1, 0.5);
+			
+			$(element).remove();
+			$('#' + type).append(canvas);
+			
+			//convertCanvasToImage(canvas);
+		  }
+		});
+	}
+		
+	
+	function addCard(card, type)
+	{
+		//alert(card.name)
+		var cardHTML = '';
+		cardHTML += '<div id="' + card.url + '" class="cardContainer leftShift"><div class="cardBar setSmooth">';
+
+		if(type == 'civilians')
+		{
+			cardHTML += card.left;
+			cardHTML += '<span class="right">'  + card.right + '</span>';
+		}
+
+		var creatureType = 'Hostile';
+		
+		if(card.right == 'Friendly Civilian' || card.right == 'Guard')
+			creatureType = 'Friendly';
+		
+		cardHTML += '</div><div class="cardImage' + creatureType + '">';
+		cardHTML += '<img class="imgTag" src="img/cards/' + type + '/' + card.url + '.png" class="card">';
+		cardHTML += '</div>';
+		cardHTML += '<div class="cardBar setSmooth"><center>' + '<font size="5">&#9808;</font>' + card.range;
+		cardHTML += '&nbsp;&nbsp;<font size="5">&#10169;</font>' + card.attack;
+		cardHTML +=  '&nbsp;&nbsp;<font size="5">&#9737;</font>' + card.armor;
+		cardHTML += '&nbsp;&nbsp;<font size="5">&#8679;</font>' + card.sprint;
+		cardHTML += '&nbsp;&nbsp;<font size="5">&#9760;</font>' + card.rewards;
+		cardHTML += '</center></div>';
+		cardHTML += '<div class="cardDescription setSmooth">' + card.description + '</div>';
+		cardHTML += '<div class="cardBarCredits setSmooth">Image: ' + card.credit + '</div></div>';
+
+		$('#' + type).append(cardHTML);
+		//loadImage($('#' + card.url),type);
+	}	
+		/*
+	function convertCanvasToImage(canvas) {
+		var image = new Image();
+		image.src = canvas.toDataURL("image/png");
+		//document.write(image);
+
+		}
+		*/
+		
+	});
+			
+
+
+	</script>
+	
+</HEAD>
+<BODY>
+	<div id="civilians"></div>
+
+
+
+
+
+
+</BODY>
+</HTML>

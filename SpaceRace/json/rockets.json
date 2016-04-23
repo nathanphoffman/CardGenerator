@@ -1,0 +1,91 @@
+[
+   {
+		"name":"", 
+		"url":"mercuryredstone",
+		"left":"<img width='25' src='img/us.gif'/> Redstone",
+		"right":"NASA Rocket",
+		"middleleft":"Engines: 1.6",
+		"middleright":"Success: 3+",
+		"description":"Draw an extra card next turn.<br/><font size='2'><ul><li>30,000 kg</li><li>n/a LEO</li><li>78,000 lbs of thrust</li></ul></font>",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Mercury-Redstone_3_Launch_MR3-9.jpg"
+	},
+   {
+		"name":"", 
+		"url":"geminiglv",
+		"left":"<img width='25' src='img/us.gif'/> Titan II GLV",
+		"right":"NASA Rocket",
+		"middleleft":"Engines: 3.1",
+		"middleright":"Success: 2+",
+		"description":"Do not draw abort with gemini capsule.<br/><font size='2'><ul><li>154,200 kg</li><li>3,580 kg to LEO</li><li>430,000 lbs of thrust</li></ul></font>",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Category:Gemini_5#mediaviewer/File:Gemini_5_-_Panoramic_of_Cape_Canaveral_LC-19_-_S65-50774.jpg"
+	},
+   {
+		"name":"", 
+		"url":"saturn1b",
+		"left":"<img width='25' src='img/us.gif'/> Saturn IB (1)",
+		"right":"NASA Rocket",
+		"middleleft":"Engines: 7.2",
+		"middleright":"Success: 3+",
+		"description":"Missions to orbit always succeed.<br/><font size='2'><ul><li>589,770 kg</li><li>21,000 kg to LEO</li><li>1,600,000 lbs of thrust</li></ul></font>",
+		"credit":"San Diego Air & Space, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Saturn_1B_launch.jpg"
+	},
+   {
+		"name":"", 
+		"url":"saturnv-image",
+		"left":"<img width='25' src='img/us.gif'/> Saturn V (2)",
+		"right":"NASA Rocket",
+		"middleleft":"Engines: 17.2",
+		"middleright":"Success: 3+",
+		"description":"Manned mission to moon: +5 score.<br/><font size='2'><ul><li>2,970,000 kg</li><li>118,000 kg to LEO</li><li>7,648,000 lbs of thrust</li></ul></font>",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Saturn_V_%26_N1_comparison.svg"
+	},
+   {
+		"name":"", 
+		"url":"vostok",
+		"left":"<img width='25' src='img/ussr.gif'/> Vostok",
+		"right":"USSR Rocket",
+		"middleleft":"Engines: 3.4",
+		"middleright":"Success: 2+",
+		"description":"Get +2 score to manned orbital.<br/><font size='2'><ul><li>151,475 kg</li><li>4,725 kg to LEO</li><li>873,023 lbs of thrust</li></ul></font>",
+		"credit":"USSR?, Unknown",
+		"creditURL":"http://en.wikipedia.org/wiki/File:Vostok1_big.gif"
+	},
+   {
+		"name":"", 
+		"url":"soyuzu",
+		"left":"<img width='25' src='img/ussr.gif'/> Soyuz U (1)",
+		"right":"USSR Rocket",
+		"middleleft":"Engines: 4.2",
+		"middleright":"Success: 2+",
+		"description":"You can reroll the mission success die.<br/><font size='2'><ul><li>313,000 kg</li><li>6,900 kg to LEO</li><li>? lbs of thrust</li></ul></font>",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Soyuz_TMA-7_launch.jpg"
+	},
+   {
+		"name":"", 
+		"url":"protonk",
+		"left":"<img width='25' src='img/ussr.gif'/> Proton-K (1)",
+		"right":"USSR Rocket",
+		"middleleft":"Engines: 7.1",
+		"middleright":"Success: 3+",
+		"description":"+3 score for Moon mission.<br/><font size='2'><ul><li>450,510 kg</li><li>20,000 kg to LEO</li><li>2,350,000 lbs of thrust</li></ul></font>",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Proton_Zvezda.jpg"
+	},
+   {
+		"name":"", 
+		"url":"n1",
+		"left":"<img width='25' src='img/ussr.gif'/> N-1 (1)",
+		"right":"USSR Rocket",
+		"middleleft":"Engines: 15.0",
+		"middleright":"Success: 4+",
+		"description":"Roll a D6, on a 3+ get +2 to engine.<br/><font size='2'><ul><li>2,735,000 kg</li><li>90,000 kg to LEO</li><li>11,300,000 lbs of thrust</li></ul></font>",
+		"credit":"USSR?",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Saturn_V_%26_N1_comparison.svg"
+	}
+
+]

@@ -1,0 +1,254 @@
+[
+   {
+		"name":"", 
+		"url":"magicwell_full",
+		"left":"Magic Well",
+		"right":"Structure",
+		"description":"Magic Water, grants +2 Mana.<br/><br/>(2) Spell Burn, discard a spell, gain +3 mana.",
+		"credit":"Varkalandar, GPL 2.0",
+		"creditURL":"http://opengameart.org/content/well-0"
+	},
+   {
+		"name":"", 
+		"url":"barracks_full",
+		"left":"Barracks",
+		"right":"Structure",
+		"description":"Reinforcements, every time a guard dies, roll a D6.  If you roll a 5,6 the guard is not discarded and can still be used.<br/><br/>(2) Call for Help, draw the top 2 civilian cards, if they are guards, keep them, otherwise discard them.",
+		"credit":"Scribe, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/6-isometric-buildings"
+	},
+   {
+		"name":"", 
+		"url":"church_full",
+		"left":"Church",
+		"right":"Structure",
+		"description":"Purity, dark magic spells cannot be used.<br/><br/>(4) Holy Purge, all skeletons die instantly on this space, you cannot collect the xp, but you can collect the treasures.",
+		"credit":"Scribe, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/6-isometric-buildings"
+	},
+   {
+		"name":"", 
+		"url":"signalfire_full",
+		"left":"Signal Fire",
+		"right":"Structure",
+		"description":"Vantage Point, get +1 to your next map roll and subtract -2 from this lands movement restriction.<br/><br/>(2) Light the Fires, exploration costs nothing.",
+		"credit":"Scribe, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/6-isometric-buildings"
+	},
+   {
+		"name":"", 
+		"url":"farm",
+		"left":"Farm",
+		"right":"Structure",
+		"description":"Pillage, draw 4 items, if they are consumables: food or potions, keep them, otherwise discard them.",
+		"credit":"Scribe, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/6-isometric-buildings"
+	},
+   {
+		"name":"", 
+		"url":"house_full",
+		"left":"House",
+		"right":"Structure",
+		"description":"Owners, draw two civilians, if one is hostile, discard the other card if it is friendly.  Otherwise, keep the cards.  Hostiles will attack inside the house, which means no other civilians/guards can help.",
+		"credit":"Scribe, CC-BY-SA 3.0",
+		"creditURL":"http://opengameart.org/content/6-isometric-buildings"
+	},
+   {
+		"name":"", 
+		"url":"well_full",
+		"left":"Well",
+		"right":"Structure",
+		"description":"Stew, if you use potions or food (consumables) +1 to their effectiveness.",
+		"credit":"Varkalandar, GPL 2.0",
+		"creditURL":"http://opengameart.org/content/well-with-roof"
+	},
+   {
+		"name":"", 
+		"url":"grave_full",
+		"left":"Grave",
+		"right":"Structure",
+		"description":"Awakening, if a skeleton does not exist here, draw the top card from the creature deck, if it is a skeleton, play it.<br/><br/>Undead, everytime a skeleton dies, roll a D6, on a 1 or 2, the skeleton comes back to life.",
+		"credit":"Clint, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/oil-painting-landscapes"
+	},
+   {
+		"name":"", 
+		"url":"goldmine",
+		"left":"Gold Mine",
+		"right":"Structure",
+		"description":"(3) Enter the Mine, +5 gold this turn.",
+		"credit":"Jinn, GPL 2.0",
+		"creditURL":"http://opengameart.org/content/gold-mine"
+	},
+   {
+		"name":"", 
+		"url":"outpost",
+		"left":"Outpost",
+		"right":"Structure",
+		"description":"Wall, increase the armor bonus given by all items by +1.<br/><br/>(1) Out of Reach, get +1 range and +1 damage to all weapons.",
+		"credit":"Bleed, CC-BY 3.0",
+		"creditURL":"http://opengameart.org/content/old-outpost-bleeds-game-art-hd"
+	},
+   {
+		"name":"", 
+		"url":"inn",
+		"left":"Inn",
+		"right":"Structure",
+		"description":"Beds, if you rest here, get +2 bonus to heal and +1 bonus to XP.  Costs you 1 gold.",
+		"credit":"Bleed, CC-BY 3.0",
+		"creditURL":"http://opengameart.org/content/medieval-building-03-bleeds-game-art"
+	},
+   {
+		"name":"", 
+		"url":"bridge",
+		"left":"Bridge",
+		"right":"Structure",
+		"description":"Bridge, movement cost is reduced by -2 on rivers and shores.",
+		"credit":"Bleed, CC-BY 3.0",
+		"creditURL":"http://opengameart.org/content/bridge-bleeds-game-art"
+	},
+   {
+		"name":"", 
+		"url":"fogfull",
+		"left":"Fog",
+		"right":"Event",
+		"description":"Your vision is reduced, draw 1 less map card on your next turn.",
+		"credit":"MrBeast, Public Domain",
+		"creditURL":"http://opengameart.org/content/smoke-aura"
+	},
+   {
+		"name":"", 
+		"url":"firefull",
+		"left":"Fire",
+		"right":"Event",
+		"description":"Any buildings/structures revealed are on fire and can't be used.",
+		"credit":"WrathGames Studio, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/wgstudio-fire-animation-loop"
+	},
+   {
+		"name":"", 
+		"url":"plague",
+		"left":"Plague",
+		"right":"Event",
+		"description":"You cannot interact with any of the local people on the current map card, unless you cure them.<br/><br/>Roll a D6, on a 1, keep this card with you, until you can find a cure, lose 1 health each turn, including this one.",
+		"credit":"MrBeast, Public Domain",
+		"creditURL":"http://opengameart.org/content/smoke-aura"
+	},
+   {
+		"name":"", 
+		"url":"sunfull",
+		"left":"Sunny Day",
+		"right":"Event",
+		"description":"No event, it is a sunny day.",
+		"credit":"MysticMike, GPL 2.0",
+		"creditURL":"http://opengameart.org/content/sun-0"
+	},
+   {
+		"name":"", 
+		"url":"storm",
+		"left":"Storm",
+		"right":"Event",
+		"description":"The movement value of the current map card is increased by +2.",
+		"credit":"Clint B. & MrBeast, CC-BY-3.0, CC0",
+		"creditURL":"http://opengameart.org/content/smoke-aura"
+	},
+   {
+		"name":"", 
+		"url":"attack",
+		"left":"Attack",
+		"right":"Gem",
+		"description":"The movement value of the current map card is increased by +2.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"block",
+		"left":"Block",
+		"right":"Gem",
+		"description":"The movement value of the current map card is increased by +2.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"gold",
+		"left":"Gold",
+		"right":"Gem",
+		"description":"The movement value of the current map card is increased by +2.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"mana",
+		"left":"Mana",
+		"right":"Gem",
+		"description":"The movement value of the current map card is increased by +2.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"sprint",
+		"left":"Sprint",
+		"right":"Gem",
+		"description":"The movement value of the current map card is increased by +2.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"life",
+		"left":"Heal",
+		"right":"Gem",
+		"description":"Heal +2.<br/><br/>(3) Heal an additional 2 points.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"life",
+		"left":"Heal",
+		"right":"Gem",
+		"description":"Heal +1.<br/><br/>(1) Heal an additional point.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"life",
+		"left":"Heal",
+		"right":"Gem",
+		"description":"Heal +1.<br/><br/>(x) Heal an additional point for every 2 cards (x) played.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"special",
+		"left":"Special: 2nd Chances",
+		"right":"Gem",
+		"description":"Reroll any die result.<br/><br/>(1) Reroll another die result or the same die result a second time.<br/><br/>(3) Regenerate the entire map instantly, can be used while engaged in combat.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"special",
+		"left":"Special: Combat Types",
+		"right":"Gem",
+		"description":"All cards played for a single attack or block (sidways and otherwise) can be converted into a single attack or block type of your choice.<br/><br/>(2) Use this card for both an attack and block.",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	},
+   {
+		"name":"", 
+		"url":"special",
+		"left":"Special: Experience",
+		"right":"Gem",
+		"description":"Gain an additional +2xp while resting.<br/><br/>(4) Gain double the experience for killing a monster.<br/><br/>",
+		"credit":"Osmic, CC-BY-3.0",
+		"creditURL":"http://opengameart.org/content/gem-jewel-diamond-glass"
+	}
+]

@@ -1,0 +1,25 @@
+[
+
+   {
+		"name":"", 
+		"url":"us",
+		"left":"United States",
+		"right":"Country",
+		"middleleft":"",
+		"middleright":"",
+		"description":"We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.  - John F. Kennedy",
+		"credit":"John P. Salvatore, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_at_the_Flint_Hills_Discovery_Center_in_Manhattan,_KS.jpg"
+	},
+   {
+		"name":"", 
+		"url":"ussr",
+		"left":"Soviet Union",
+		"right":"Country",
+		"middleleft":"",
+		"middleright":"",
+		"description":"We will produce rockets like sausages. <br/>-- Nikita Khrushchev",
+		"credit":"Ericmetro, CC-BY-SA 3.0 Unported",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Hammer_and_Sickle_on_Flag_of_Soviet_Union.JPG"
+	}
+]

@@ -1,0 +1,113 @@
+[
+
+   {
+		"name":"", 
+		"url":"vodka",
+		"left":"Vodka",
+		"right":"Special",
+		"middleleft":"Celebration!",
+		"middleright":"",
+		"description":"Play after a successful mission to celebrate.  Place this into your score pile, it counts as +5 score.",
+		"credit":"StefaniaRomanovv, CC-BY-SA 4.0 Int.",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:-Pure_Vodka-.jpg"
+	},
+   {
+		"name":"", 
+		"url":"strelka",
+		"left":"Belka and Strelka (1)",
+		"right":"Special",
+		"middleleft":"A gift of space dogs",
+		"middleright":"",
+		"description":"Play if you had a successful mission and an opponent had a failed mission.  The opponent must place this card in his/her deck for -7 points.",
+		"credit":"Russian Federation, Public Domain",
+		"creditURL":"http://upload.wikimedia.org/wikipedia/commons/0/03/Belka_%26_Strelka_50_Years_Flight_Stump.jpg"
+	},
+   {
+		"name":"", 
+		"url":"sliderule",
+		"left":"Slide Rule",
+		"right":"Special",
+		"middleleft":"Calculations",
+		"middleright":"",
+		"description":"Play with a rocket, it will increase the engine by +2. ",
+		"credit":"Guian Bolisay, CC-BY-SA 2.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Asliderule.jpg"
+	},
+   {
+		"name":"", 
+		"url":"coffee",
+		"left":"Coffee",
+		"right":"Special",
+		"middleleft":"Caffeine!",
+		"middleright":"",
+		"description":"You automatically win a race to the same mission/destination.  If another coffee is played by someone else, then go off of the engine between you.",
+		"credit":"Julius Schorzman, CC-BY-SA 2.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG"
+	},
+   {
+		"name":"", 
+		"url":"recon",
+		"left":"Reconnaissance",
+		"right":"Special",
+		"middleleft":"Spy",
+		"middleright":"",
+		"description":"You may choose one player when rocket/spacecraft cards are placed face down.  They must show you the cards.  You do not have to play your own cards.",
+		"credit":"US Gov, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:KH-8_N1.jpg"
+	},
+   {
+		"name":"", 
+		"url":"pocket",
+		"left":"Pocket Protector",
+		"right":"Special",
+		"middleleft":"Look for new options.",
+		"middleright":"",
+		"description":"Draw 1 destination and mission card, play at the start of your turn.  This is revealed, as normal, but only you can attempt to go there.  Discard when done.",
+		"credit":"Jake Mackenzie, CC-BY-SA 3.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:PocketProtector.jpg"
+	},
+   {
+		"name":"", 
+		"url":"escapetower",
+		"left":"Escape Tower",
+		"right":"Special",
+		"middleleft":"Escape!",
+		"middleright":"",
+		"description":"Play when you fail a manned mission, your crew is not lost, you do not draw any outrage cards for the crew, still draw 1 for the rocket.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Escape_rocket_of_Mercury-Redstone_1-crop.jpg"
+	},
+    {
+		"name":"", 
+		"url":"smokes",
+		"left":"Smokes",
+		"right":"Special",
+		"middleleft":"Anyone got a light?",
+		"middleright":"",
+		"description":"Discard this card at anytime to draw two cards.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Mission_Control_Celebrates_-_GPN-2000-001313.jpg"
+	},
+    {
+		"name":"", 
+		"url":"fear",
+		"left":"Fear",
+		"right":"Special",
+		"middleleft":"Nuclear threat",
+		"middleright":"",
+		"description":"Play this card in front of a target player.  The player must draw a public outrage card at the very end of their turn.  Discard this card when resolved.",
+		"credit":"US Military, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:SS-15_ICBM.JPEG"
+	},
+    {
+		"name":"", 
+		"url":"budgetplan",
+		"left":"Budget Planning",
+		"right":"Special",
+		"middleleft":"Planning next years budget",
+		"middleright":"",
+		"description":"At the beginning of each turn, add one card from the deck to this card.  Once it has 3 cards, put those 3 cards into your hand, and discard this card.",
+		"credit":"US Gov, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:John_F._Kennedy_signs_bills_1961.JPG"
+	}
+]

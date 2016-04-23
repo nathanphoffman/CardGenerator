@@ -1,0 +1,60 @@
+[
+
+
+     {
+		"name":"", 
+		"url":"diceOne",
+		"left":"One",
+		"right":"Counting Cards",
+		"middleleft":"",
+		"middleright":"",
+		"description":"This game was created by Nathan Hoffman.  nathanphoffman.com",
+		"credit":"Nathan Hoffman, GPL",
+		"creditURL":"http://opengameart.org/content/dice-1"
+	},
+    {
+		"name":"", 
+		"url":"diceTwo",
+		"left":"Two",
+		"right":"Counting Cards",
+		"middleleft":"",
+		"middleright":"",
+		"description":"A special thanks to NASA, their archives, and tax-payers like you to provide so many images in this game as Public Domain.",
+		"credit":"Nathan Hoffman, GPL",
+		"creditURL":"http://opengameart.org/content/dice-1"
+	},
+    {
+		"name":"", 
+		"url":"diceThree",
+		"left":"Three",
+		"right":"Counting Cards",
+		"middleleft":"",
+		"middleright":"",
+		"description":"Thank you to Wikimedia Commons for hosting much of this open source media.",
+		"credit":"Nathan Hoffman, GPL",
+		"creditURL":"http://opengameart.org/content/dice-1"
+	},
+    {
+		"name":"", 
+		"url":"diceFour",
+		"left":"Four",
+		"right":"Counting Cards",
+		"middleleft":"",
+		"middleright":"",
+		"description":"If you enjoy this game, please support space programs, projects, and entities.  Our future is out there.",
+		"credit":"Nathan Hoffman, GPL",
+		"creditURL":"http://opengameart.org/content/dice-1"
+	},
+    {
+		"name":"", 
+		"url":"diceFive",
+		"left":"Five",
+		"right":"Counting Cards",
+		"middleleft":"",
+		"middleright":"",
+		"description":"This is gamma version 1 of the game.  The game art licenses are as indicated, and all game content should be covered under CC-BY-SA 3.0.",
+		"credit":"Nathan Hoffman, GPL",
+		"creditURL":"http://opengameart.org/content/dice-1"
+	}
+
+]

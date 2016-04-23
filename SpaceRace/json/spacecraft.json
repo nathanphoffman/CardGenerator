@@ -1,0 +1,136 @@
+[
+
+    {
+		"name":"", 
+		"url":"lem",
+		"left":"<img width='25' src='img/us.gif'/> Lunar Module",
+		"right":"NASA Lander",
+		"middleleft":"Weight: 2",
+		"middleright":"Reward: +2",
+		"description":"You can play this card with a manned mission to Mars or the Moon.  A manned vehicle must still be played. Get +1 reward if paired with an Apollo capsule.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://en.wikipedia.org/wiki/Apollo_Lunar_Module#mediaviewer/File:Apollo_11_Lunar_Module_Eagle_in_landing_configuration_in_lunar_orbit_from_the_Command_and_Service_Module_Columbia.jpg"
+	},
+    {
+		"name":"", 
+		"url":"venera9",
+		"left":"<img width='25' src='img/ussr.gif'/> Venera 9 Lander",
+		"right":"USSR Lander",
+		"middleleft":"Weight: 1",
+		"middleright":"Reward: +1",
+		"description":"You can play this card with a science mission to Mars, the Moon, or Venus.  A science vehicle must still be played.  If you land on Venus, +1 to reward.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Category:Venera_9#mediaviewer/File:Venera_9_lander.jpg"
+	},
+    {
+		"name":"", 
+		"url":"mercurycap",
+		"left":"<img width='25' src='img/us.gif'/> Mercury Capsule",
+		"right":"NASA Vehicle",
+		"middleleft":"Weight: 0.5",
+		"middleright":"Small Manned",
+		"description":"-1 to the success die for the mission/rocket due to high g-forces on re-entry.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:MA-8_lowered_onto_deck.jpg"
+	},
+    {
+		"name":"", 
+		"url":"geminicap",
+		"left":"<img width='25' src='img/us.gif'/> Gemini Capsule",
+		"right":"NASA Vehicle",
+		"middleleft":"Weight: 1.5",
+		"middleright":"Small Manned",
+		"description":"Get +2 extra score when completing small manned missions for having a crew of 2.",
+		"credit":"HrAtsuo, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Gemini_XII_Capsule.jpg"
+	},
+    {
+		"name":"", 
+		"url":"apollocap",
+		"left":"<img width='25' src='img/us.gif'/> Apollo Capsule",
+		"right":"NASA Vehicle",
+		"middleleft":"Weight: 3",
+		"middleright":"Large Manned",
+		"description":"Get a reroll to the mission success die.",
+		"credit":"RadioFan, CC-BY-SA 3.0",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Apollo_14_capsule_Kitty_Hawk.JPG"
+	},
+    {
+		"name":"", 
+		"url":"explorer17",
+		"left":"<img width='25' src='img/us.gif'/> Explorer 17",
+		"right":"NASA Vehicle",
+		"middleleft":"Weight: 0.5",
+		"middleright":"Small Science",
+		"description":"On suborbital and orbital missions get +3 score.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Explorer_17.jpg"
+	},
+    {
+		"name":"", 
+		"url":"mariner2",
+		"left":"<img width='25' src='img/us.gif'/> Mariner 2",
+		"right":"NASA Vehicle",
+		"middleleft":"Weight: 2",
+		"middleright":"Large Science",
+		"description":"If you accomplish a deep space science mission to Venus or Mars, discard a public outrage card and get +2 points.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/Mariner_2#mediaviewer/File:Mariner_2_inspection.jpg"
+	},
+
+    {
+		"name":"", 
+		"url":"sputnik",
+		"left":"<img width='25' src='img/ussr.gif'/> Sputnik",
+		"right":"USSR Vehicle",
+		"middleleft":"Weight: 0.5",
+		"middleright":"Small Science",
+		"description":"If you play this card on an orbital science mission, get +5 score.",
+		"credit":"US Air Force, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Sputnik_1.jpg"
+	},
+    {
+		"name":"", 
+		"url":"luna3",
+		"left":"<img width='25' src='img/ussr.gif'/> Luna 3",
+		"right":"USSR Vehicle",
+		"middleleft":"Weight: 2",
+		"middleright":"Large Science",
+		"description":"On a science mission to the moon, get +1 reward.",
+		"credit":"US Air Force, Public Domain",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Sputnik_1.jpg"
+	},
+    {
+		"name":"", 
+		"url":"vostokcap",
+		"left":"<img width='25' src='img/ussr.gif'/> Vostok 1",
+		"right":"USSR Vehicle",
+		"middleleft":"Weight: 1",
+		"middleright":"Small Manned",
+		"description":"You can reroll the abort roll.",
+		"credit":"Errabee, CC-BY-SA 2.5",
+		"creditURL":"http://commons.wikimedia.org/wiki/File:Vostok_1_after_landing.jpg"
+	},
+    {
+		"name":"", 
+		"url":"voskhodcap",
+		"left":"<img width='25' src='img/ussr.gif'/> Voskhod",
+		"right":"USSR Vehicle",
+		"middleleft":"Weight: 1",
+		"middleright":"Small Manned",
+		"description":"Get -1 to the mission success die.   On success, get +5 score.",
+		"credit":"USSR? Unknown",
+		"creditURL":"Unknown"
+	},
+    {
+		"name":"", 
+		"url":"soyuzcap",
+		"left":"<img width='25' src='img/ussr.gif'/> Soyuz",
+		"right":"USSR Vehicle",
+		"middleleft":"Weight: 2.5",
+		"middleright":"Large Manned",
+		"description":"If the US plays this card, they must give every USSR player a card, they do not have to pay the foreign fee.",
+		"credit":"NASA, Public Domain",
+		"creditURL":"http://en.wikipedia.org/wiki/Soyuz_(spacecraft)#mediaviewer/File:Soyuz_TMA-7_spacecraft2edit1.jpg"
+	}
+]
